@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! I'm Nandini 👋
+
+I'm a **Computer Science student at the University of Waterloo**, aspiring to advance the world of tech design!
+
+- 🔭 I’m currently working on my design portfolio, which I'm creating using **HTML/CSS and bootstrap**
+- 🌱 I’m currently learning **C++ and JavaScript**
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I collect Vinyl Records!
 
 <!--
 **NandiniMeh/NandiniMeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
