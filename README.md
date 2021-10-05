@@ -1,6 +1,11 @@
 
 # Hi There! I'm Nandini 👋
 
+<typing-effect data-lines='["Welcome to GitHub!", "Let’s begin the adventure"]'>
+  <span data-target="typing-effect.content"></span>
+  <span data-target="typing-effect.cursor">|</span>
+</typing-effect>
+
 I'm a **Computer Science student at the University of Waterloo**, aspiring to advance the world of tech design!
 
 - 🔭 I’m currently working on my design portfolio, which I'm creating using **HTML/CSS and bootstrap**
