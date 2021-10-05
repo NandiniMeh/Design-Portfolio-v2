@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandiniMeh&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandiniMeh&theme=radical&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniMeh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniMeh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
