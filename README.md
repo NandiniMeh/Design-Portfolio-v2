@@ -1,5 +1,5 @@
 
-# Hi There! I'm Nandini
+# Hi There! I'm Nandini 👋
 
 I'm a **Computer Science student at the University of Waterloo**, aspiring to advance the world of tech design!
 
