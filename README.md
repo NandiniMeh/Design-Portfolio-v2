@@ -1,6 +1,8 @@
 
 # Hi There! I'm Nandini 👋
 
+import '@github/typing-effect-element'
+$ npm install @github/typing-effect-element
 <typing-effect data-lines='["Welcome to GitHub!", "Let’s begin the adventure"]'>
   <span data-target="typing-effect.content"></span>
   <span data-target="typing-effect.cursor">|</span>
