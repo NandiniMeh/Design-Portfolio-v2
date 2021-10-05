@@ -1,5 +1,5 @@
 
-![Hi there! I'm Nandini](https://user-images.githubusercontent.com/90271211/135969299-20e40262-af9a-4c1a-95e8-d7470598d93b.png)
+                                ![Hi there! I'm Nandini](https://user-images.githubusercontent.com/90271211/135969299-20e40262-af9a-4c1a-95e8-d7470598d93b.png)
 
 I'm a **Computer Science student at the University of Waterloo**, aspiring to advance the world of tech design!
 
