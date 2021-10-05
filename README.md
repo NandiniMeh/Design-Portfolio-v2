@@ -3,7 +3,7 @@ I'm a **Computer Science student at the University of Waterloo**, aspiring to ad
 
 - 🔭 I’m currently working on my design portfolio, which I'm creating using **HTML/CSS and Bootstrap**
 - 💬 Tools I always use: HTML/CSS, C/C++ , Visual Studio, Figma
-- 🌱 I’m currently learning **C++ and JavaScript**
+- 🌱 I’m currently learning **TypeScript and JavaScript**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love writing prose and poetry! Read some of my work at https://nandinimehrotra14.wixsite.com/dailyweather
 
