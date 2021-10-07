@@ -1,7 +1,7 @@
 ![NandiniM-Portfolio-Google-Chrome (3)](https://user-images.githubusercontent.com/90271211/135972918-794958cf-974d-4d91-b155-d5fea3fb6586.gif)
 I'm a **Computer Science student at the University of Waterloo**, aspiring to advance the world of tech design!
 
-- 🔭 I’m currently working on my design portfolio, which I'm creating using **HTML/CSS and Bootstrap** (Check out the [first iteration](https://github.com/NandiniMeh/design_portfolio_iteration01))
+- 👯 I’m currently working on my design portfolio, which I'm creating using **HTML/CSS and Bootstrap** (Check out the [first iteration](https://github.com/NandiniMeh/design_portfolio_iteration01))
 - 💬 Tools I always use: HTML/CSS, C/C++ , Visual Studio, Figma
 - 🔭 Skills: HTML/CSS, C++, Bash, Racket, LaTex, R, C
 - 🌱 I’m currently learning **TypeScript and JavaScript**
