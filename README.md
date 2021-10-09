@@ -3,7 +3,7 @@ I'm a **Computer Science student at the University of Waterloo**, aspiring to ad
 
 - 👯 I’m currently working on my design portfolio, which I'm creating using **HTML/CSS and Bootstrap** (Check out the [first iteration](https://github.com/NandiniMeh/design_portfolio_iteration01))
 - 💬 Tools I always use: HTML/CSS, C/C++ , Visual Studio, Figma
-- 🔭 Skills: HTML/CSS, C++, Bash, Racket, LaTex, R, C
+- 🔭 Skills: HTML/CSS, C++, Bash, Racket, LaTeX, R, C
 - 🌱 I’m currently learning **TypeScript and JavaScript**
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love writing prose and poetry! Read some of my work at [The Daily Weather](https://nandinimehrotra14.wixsite.com/dailyweather)
